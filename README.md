@@ -1,13 +1,13 @@
 # app-dev
 My first repository
 
-I love Watching anime
+*I love Watching anime*
 my fav are
 <ol>
-  <li>Monster/li>
+  <li>Monster</li>
   <li>Death Node</li>
   <li>Fullmetal Alchemist: Brotherhood</li>
-  <li>Sakura Quest/li>
+  <li>Sakura Quest</li>
 </ol>
 
 
